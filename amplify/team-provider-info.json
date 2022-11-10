@@ -10,6 +10,11 @@
       "StackName": "amplify-airdinner-dev-184048",
       "StackId": "arn:aws:cloudformation:us-east-1:801222505146:stack/amplify-airdinner-dev-184048/33a0abe0-6127-11ed-9bf0-120dccfce243",
       "AmplifyAppId": "dvg92qz6p06gz"
+    },
+    "categories": {
+      "auth": {
+        "airdinnerece65be0": {}
+      }
     }
   }
 }
