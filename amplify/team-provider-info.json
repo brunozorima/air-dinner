@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-airdinner-dev-184048-authRole",
+      "UnauthRoleArn": "arn:aws:iam::801222505146:role/amplify-airdinner-dev-184048-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::801222505146:role/amplify-airdinner-dev-184048-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-airdinner-dev-184048-deployment",
+      "UnauthRoleName": "amplify-airdinner-dev-184048-unauthRole",
+      "StackName": "amplify-airdinner-dev-184048",
+      "StackId": "arn:aws:cloudformation:us-east-1:801222505146:stack/amplify-airdinner-dev-184048/33a0abe0-6127-11ed-9bf0-120dccfce243",
+      "AmplifyAppId": "dvg92qz6p06gz"
+    }
+  }
+}
